@@ -1,0 +1,28 @@
+{
+  "name": "computer-graphics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "dev": "vite"
+
+  },
+  "repository": {
+
+    "type": "git",
+    "url": "git+https://github.com/Zulganiab/computer-graphics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zulganiab/computer-graphics/issues"
+  },
+  "homepage": "https://github.com/Zulganiab/computer-graphics#readme",
+  "dependencies": {
+    "three": "^0.186.1",
+    "vite": "^8.3.3"
+  }
+}
